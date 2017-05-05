@@ -3,4 +3,8 @@
  */
 public class Algo
 {
+    void print()
+    {
+        System.out.println("hello");
+    }
 }
