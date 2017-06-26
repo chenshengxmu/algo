@@ -19,7 +19,8 @@ public class Algo
                 if (i < n - 1)
                 {
                     return true;
-                } else
+                }
+                else
                 {
                     return false;
                 }
